@@ -1,0 +1,22 @@
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\bin\Debug\net5.0-windows\1. MatchGame.exe
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\bin\Debug\net5.0-windows\1. MatchGame.deps.json
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\bin\Debug\net5.0-windows\1. MatchGame.runtimeconfig.json
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\bin\Debug\net5.0-windows\1. MatchGame.runtimeconfig.dev.json
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\bin\Debug\net5.0-windows\1. MatchGame.dll
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\bin\Debug\net5.0-windows\ref\1. MatchGame.dll
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\bin\Debug\net5.0-windows\1. MatchGame.pdb
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame.csproj.AssemblyReference.cache
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame_MarkupCompile.cache
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame_MarkupCompile.lref
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame.g.resources
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame.AssemblyInfoInputs.cache
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame.AssemblyInfo.cs
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame.csproj.CoreCompileInputs.cache
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame.dll
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\ref\1. MatchGame.dll
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame.pdb
+C:\Users\HarinderDulai\Documents\GitHub\headFirstCSharp21\Project\HeadFirstC4\1. MatchGame\obj\Debug\net5.0-windows\1. MatchGame.genruntimeconfig.cache
